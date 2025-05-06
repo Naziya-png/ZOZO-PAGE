@@ -1,3 +1,3 @@
 # ZOZO-PAGE
 The first Git Repository
-Auther-Naziya Akhtar
+Author-Naziya Akhtar
